@@ -1,0 +1,14 @@
+
+// ideas about how to steer a vehicle
+http://answers.unity3d.com/questions/9407/how-can-i-set-up-a-tank-steering-mechanism.html
+
+// explanation of AddForce
+http://answers.unity3d.com/questions/511203/making-rigidbody-force-movement-snappy.html
+
+
+
+
+// not to do with tanks, but VERY USEFUL
+http://answers.unity3d.com/questions/357096/setsendingenabled-specifics.html
+http://forum.unity3d.com/threads/how-does-setreceivingenabled-work.8365/
+http://forum.unity3d.com/threads/disable-state-synchronization.136008/
